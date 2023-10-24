@@ -10,6 +10,13 @@ class _EventDict(dict):
       with open('data.json', 'w') as json_file:
           json_file.write(json.dumps(db))
 
+  def prefix(self, prefix):
+    list = []
+    for key in db.keys():
+      if key.startswith(prefix):
+        list.append(key)
+    return list
+
   def __setitem__(self, key, value):
       super(_EventDict, self).__setitem__(key, value)
       self._push()
