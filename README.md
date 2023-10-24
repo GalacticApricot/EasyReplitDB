@@ -19,10 +19,10 @@ Simple Python Database
 **How To Set Up:**
 
 Step 1:
-    
-    Download SimpleDB as a zip file and extract it
-    
+
     Make sure python is up to date
+    
+    Download SimpleDB
     
     
 **How To Run:**
