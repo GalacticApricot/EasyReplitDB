@@ -27,9 +27,29 @@ Step 1:
     
 **How To Run:**
 
-After setting up:
+Importing database:
 
-    use start.bat or run manually
+    from EasyReplitDB import db
+
+Set a key to a value:
+
+    db["key"] = "value"
+
+Get a key's value:
+
+    db["key"]
+
+Delete a key:
+
+    del db["key"]
+
+List all keys:
+
+    keys = db.keys()
+
+List keys with a prefix:
+
+    matches = db.prefix("prefix")
 
 
 **Contact:**
