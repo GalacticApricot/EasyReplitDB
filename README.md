@@ -12,7 +12,7 @@ Simple Python Database
 
 **Requirements:**
 
-`python3.2=>`
+`python3.2 =<`
 
 **How To Set Up:**
 
