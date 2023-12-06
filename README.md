@@ -1,7 +1,7 @@
 # SimpleDB
 Simple Python Database
 
-**Python Databases made simple using ~~JSON~~ SQLITE 3, based on replit's DB library**
+**Python Databases made simple using SQLITE 3, based on replit's DB library**
 
 > works on all platforms
 
