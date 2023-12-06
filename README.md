@@ -1,4 +1,4 @@
-# SimpleDB
+# EasyReplitDB
 Simple Python Database
 
 **Python Databases made simple using SQLITE 3, based on replit's DB library**
