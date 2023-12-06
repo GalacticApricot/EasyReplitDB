@@ -12,13 +12,15 @@ Simple Python Database
 
 **Requirements:**
 
-`python3.2 =<`
+`python3.2=<`
 
 **How To Set Up:**
 
 Step 1:
 
     Make sure python is up to date
+
+    Install required libraries
     
     Download EasyReplitDB
     
