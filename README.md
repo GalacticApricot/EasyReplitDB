@@ -3,14 +3,12 @@ Simple Python Database
 
 **Python Databases made simple using ~~JSON~~ SQLITE 3, based on replit's DB library**
 
-> run file only works on windows
->
-> python file can be run separately on most platforms
+> works on all platforms
 
 
 **Required Libraries:**
 
-`None`
+`sqlite3` `atexit`
 
 **Requirements:**
 
@@ -22,7 +20,7 @@ Step 1:
 
     Make sure python is up to date
     
-    Download SimpleDB
+    Download EasyReplitDB
     
     
 **How To Run:**
